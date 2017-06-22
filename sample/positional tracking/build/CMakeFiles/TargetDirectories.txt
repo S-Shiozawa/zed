@@ -1,0 +1,3 @@
+/usr/local/zed/sample/positional tracking/build/CMakeFiles/edit_cache.dir
+/usr/local/zed/sample/positional tracking/build/CMakeFiles/rebuild_cache.dir
+/usr/local/zed/sample/positional tracking/build/CMakeFiles/ZED_Positional_Tracking.dir
